@@ -1,1 +1,3 @@
-// Put all your JavaScript in this file!
+<button id="myBtn">
+    prompt("pick a color?!");
+</button>
